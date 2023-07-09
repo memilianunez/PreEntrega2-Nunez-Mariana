@@ -1,0 +1,87 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+body {
+    align-content: center;
+    background-color: rgb(250, 249, 249);
+    font-size: 1em;
+}
+
+h1 {
+    color: white;
+    font-weight: 600;
+    font-size: 5em;
+    padding-top: 1em;
+}
+
+h2 {
+    color: white;
+    font-weight: 100;
+    font-size: 1.6em;
+}
+
+strong {
+    color: white;
+    font-weight: 900;
+}
+
+h3 {
+    color: white;
+    font-weight: 500;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+
+ol li {
+    color: white;
+    font-size: 1.2em;
+    font-weight: 100;
+}
+
+h4 {
+    color: white;
+    font-weight: 100;
+    font-size: 0.9em;
+}
+
+.imagen-de-fondo {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../src/ferreteria-img-de-fondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.textos {
+    margin-left: 8em;
+}
+
+.logo-slogan {
+    margin-bottom: 2em;
+}
+
+.herramientas-de-trabajo {
+    background-color: rgba(0, 0, 0, 0.219);
+    font-size: 1rem;
+    margin: 2em;
+    border-radius: 1em;
+    padding-left: 8em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    width: 50em;
+}
+
+.instruccion {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-left: 4em;
+}
+
+.info {
+    margin-top: 1em;
+    margin-bottom: 3em;
+    padding: 4em;
+}
